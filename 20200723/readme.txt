@@ -1,8 +1,4 @@
 Creating a new branch is quick.
 hi~eunice,today is 20200723
 are you happy?
-<<<<<<< HEAD
-Creating a new branch is quick and simple.
-=======
-Creating a new branch is quick and simple.
->>>>>>> featurel
+i very miss you~!
